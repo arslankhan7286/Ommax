@@ -53,7 +53,7 @@ function CarouselSlider(props) {
                     <div className="myCarousel">
                         <h3>Import customs clearance</h3>
                         <p>If you would like to import goods from a third country to within the European Union, Customs Support assists you in every step of the customs clearance process. Our customs experts take care of import documents, classification of import goods with the correct HS code, coordination of physical inspection and duty management.</p>
-                        <a href='#'>Learn more </a>
+                        <a href='/'>Learn more </a>
                     </div>
                 </div>
                 <div className="crousel-slider-card">
@@ -61,7 +61,7 @@ function CarouselSlider(props) {
                     <div className="myCarousel">
                         <h3>Import customs clearance</h3>
                         <p>If you would like to import goods from a third country to within the European Union, Customs Support assists you in every step of the customs clearance process. Our customs experts take care of import documents, classification of import goods with the correct HS code, coordination of physical inspection and duty management.</p>
-                        <a href='#'>Learn more </a>
+                        <a href='/'>Learn more </a>
                     </div>
                 </div>
                 </Carousel>

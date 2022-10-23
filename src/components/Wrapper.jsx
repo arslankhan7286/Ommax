@@ -6,7 +6,6 @@ import Content from './content/Content';
 import ContentCard from './content/ContentCard';
 import ContentServiceCard from './content/ContentServiceCard';
 import CustomBanner from './content/CustomBanner';
-import Footer from './Footer';
 
 function Wrapper(props) {
     return (

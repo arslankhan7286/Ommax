@@ -15,6 +15,7 @@ function ContactForm(props) {
     const handleChange = (event) => {
         setValue(event.target.value);
     };
+    
     return (
         <div className='form'>
             <div className='banner-text'>
@@ -53,20 +54,20 @@ function ContactForm(props) {
                     </div>
                     <div className="contact-input-form">
                         <div className="input-form">
-                            <input class="form-control" type="text" placeholder="First name *" aria-label="default input example" />
-                            <input class="form-control" type="text" placeholder="Last name *" aria-label="default input example" />
+                            <input className="form-control" type="text" placeholder="First name *" aria-label="default input example" />
+                            <input className="form-control" type="text" placeholder="Last name *" aria-label="default input example" />
                         </div>
                         <div className="input-form">
-                            <input class="form-control" type="text" placeholder="Company" aria-label="default input example" />
-                            <input class="form-control" type="email" placeholder="E-Mail *" aria-label="default input example" />
+                            <input className="form-control" type="text" placeholder="Company" aria-label="default input example" />
+                            <input className="form-control" type="email" placeholder="E-Mail *" aria-label="default input example" />
                         </div>
                         <div className="input-form">
-                            <div class="form-group">
-                                <input type="text" class="form-control" id="ec-mobile-number" aria-describedby="emailHelp"
+                            <div className="form-group">
+                                <input type="text" className="form-control" id="ec-mobile-number" aria-describedby="emailHelp"
                                 placeholder="+44 | Phone number *" />
                             </div>
                             <div className='select-input-field'>
-                                <select class="form-select" aria-label="Default select example">
+                                <select className="form-select" aria-label="Default select example">
                                     <option selected>Select country</option>
                                     <option value="1">Pakistan</option>
                                     <option value="2">United Kingdom</option>
@@ -94,7 +95,7 @@ function ContactForm(props) {
                         </p> 
                     </div>
                     <div className='select-input-field'>
-                        <select class="form-select" aria-label="Default select example">
+                        <select className="form-select" aria-label="Default select example">
                             <option selected>Customs Support</option>
                             <option value="1">Pakistan</option>
                             <option value="2">United Kingdom</option>
