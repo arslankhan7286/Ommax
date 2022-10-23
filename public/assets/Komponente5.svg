@@ -1,0 +1,22 @@
+<svg id="Komponente_14_1" data-name="Komponente 14 – 1" xmlns="http://www.w3.org/2000/svg" width="354" height="183.334" viewBox="0 0 354 183.334">
+  <text id="EU-wide_coverage" data-name="EU-wide coverage" transform="translate(0 70.334)" fill="#3d4d62" font-size="20" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-weight="700"><tspan x="0" y="21">EU-wide coverage</tspan></text>
+  <text id="We_have_offices_in_5_European_countries_but_thanks_to_our_network_of_trusted_partners_we_have_EU-wide_coverage." data-name="We have offices in 5 European countries, but thanks to our network of trusted partners we have EU-wide coverage." transform="translate(0 114.334)" fill="#3d4d62" font-size="16" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="16">We have offices in 5 European countries, but </tspan><tspan x="0" y="40">thanks to our network of trusted partners we </tspan><tspan x="0" y="64">have EU-wide coverage.</tspan></text>
+  <g id="europe" transform="translate(0.352 -0.001)">
+    <g id="Gruppe_491" data-name="Gruppe 491" transform="translate(0 0.001)">
+      <path id="Pfad_119" data-name="Pfad 119" d="M44.188,18.9,49.923,3.233a.976.976,0,0,0-.667-1.279C41.38-.13,33.948.932,26.76,1.959c-6.773.968-13.77,1.967-21.021.18A2.923,2.923,0,0,0,0,2.925V47.06a2.924,2.924,0,0,0,5.847,0V36.185a38,38,0,0,0,8.522.911A89.152,89.152,0,0,0,27.037,35.9c7.316-1.045,14.227-2.033,21.72-.051a.976.976,0,0,0,1.166-1.279ZM26.76,33.972c-6.739.963-13.7,1.957-20.912.207V23.317a.976.976,0,0,0-1.952,0V47.06a.971.971,0,0,1-1.942,0V2.925a.971.971,0,1,1,1.942,0V14.531a.976.976,0,1,0,1.952,0V4.171c7.4,1.69,14.4.691,21.189-.279,6.977-1,13.584-1.941,20.679-.308L42.232,18.568a.975.975,0,0,0,0,.671l5.235,14.305c-7.216-1.5-14.066-.521-20.707.428Z" transform="translate(0 -0.001)" fill="#01a4b7"/>
+      <path id="Pfad_120" data-name="Pfad 120" d="M243.926,83.848h0a.976.976,0,1,0,.977.976A.976.976,0,0,0,243.925,83.848Z" transform="translate(-219.232 -75.663)" fill="#01a4b7"/>
+      <path id="Pfad_121" data-name="Pfad 121" d="M193.539,97.319h0a.976.976,0,1,0,1.283.512A.976.976,0,0,0,193.538,97.319Z" transform="translate(-174.111 -87.747)" fill="#01a4b7"/>
+      <path id="Pfad_122" data-name="Pfad 122" d="M157.7,133.921a.976.976,0,0,0-1.282.513h0a.976.976,0,1,0,1.282-.513Z" transform="translate(-141.081 -120.776)" fill="#01a4b7"/>
+      <path id="Pfad_123" data-name="Pfad 123" d="M144.9,184.819a.976.976,0,0,0-1.952,0h0a.976.976,0,0,0,1.952,0Z" transform="translate(-128.995 -165.896)" fill="#01a4b7"/>
+      <path id="Pfad_124" data-name="Pfad 124" d="M156.935,233.918a.976.976,0,0,0-.513,1.282h0a.976.976,0,1,0,.512-1.283Z" transform="translate(-141.08 -211.011)" fill="#01a4b7"/>
+      <path id="Pfad_125" data-name="Pfad 125" d="M194.4,270.573a.976.976,0,1,0-.969,1.7h0a.976.976,0,0,0,.968-1.7Z" transform="translate(-174.108 -244.043)" fill="#01a4b7"/>
+      <path id="Pfad_126" data-name="Pfad 126" d="M243.921,283.846a.976.976,0,1,0,0,1.952h0a.976.976,0,1,0,0-1.952Z" transform="translate(-219.228 -256.137)" fill="#01a4b7"/>
+      <path id="Pfad_127" data-name="Pfad 127" d="M293.435,270.577a.976.976,0,1,0,.969,1.7h0a.976.976,0,0,0-.969-1.695Z" transform="translate(-264.345 -244.046)" fill="#01a4b7"/>
+      <path id="Pfad_128" data-name="Pfad 128" d="M331.008,233.974a.977.977,0,1,0,.363,1.332h0A.976.976,0,0,0,331.008,233.974Z" transform="translate(-297.376 -211.017)" fill="#01a4b7"/>
+      <path id="Pfad_129" data-name="Pfad 129" d="M343.924,183.847a.976.976,0,1,0,.976.977h0A.976.976,0,0,0,343.924,183.847Z" transform="translate(-309.469 -165.9)" fill="#01a4b7"/>
+      <path id="Pfad_130" data-name="Pfad 130" d="M330.528,135.8a.976.976,0,0,0,.847-1.461h0a.976.976,0,1,0-.846,1.461Z" transform="translate(-297.379 -120.778)" fill="#01a4b7"/>
+      <path id="Pfad_131" data-name="Pfad 131" d="M294.308,97.32h0a.976.976,0,1,0,.513,1.282A.976.976,0,0,0,294.307,97.319Z" transform="translate(-264.349 -87.747)" fill="#01a4b7"/>
+      <path id="Pfad_132" data-name="Pfad 132" d="M40.873,183.84a.976.976,0,1,0,.976.977h0A.976.976,0,0,0,40.873,183.84Z" transform="translate(-36.002 -165.893)" fill="#01a4b7"/>
+    </g>
+  </g>
+</svg>

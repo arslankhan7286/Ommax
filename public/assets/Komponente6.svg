@@ -1,0 +1,56 @@
+<svg id="Komponente_15_1" data-name="Komponente 15 – 1" xmlns="http://www.w3.org/2000/svg" width="354" height="159.334" viewBox="0 0 354 159.334">
+  <text id="Innovation_digitalisation" data-name="Innovation &amp; digitalisation" transform="translate(0 70.334)" fill="#3d4d62" font-size="20" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-weight="700"><tspan x="0" y="21">Innovation &amp; digitalisation</tspan></text>
+  <text id="We_use_advanced_IT-tools_for_customs_declaration_and_customs_data_exchange." data-name="We use advanced IT-tools for customs declaration and customs data exchange." transform="translate(0 114.334)" fill="#3d4d62" font-size="16" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="16">We use advanced IT-tools for customs </tspan><tspan x="0" y="40">declaration and customs data exchange.</tspan></text>
+  <g id="innovation" transform="translate(0 -0.067)">
+    <g id="Gruppe_493" data-name="Gruppe 493" transform="translate(0 0.274)">
+      <g id="Gruppe_492" data-name="Gruppe 492" transform="translate(0)">
+        <path id="Pfad_133" data-name="Pfad 133" d="M49.624,15.061h0l0,0L46.373,14.6a.835.835,0,0,1-.383-1.5l2.626-1.97a.835.835,0,0,0,.167-1.169L45.776,5.952a.835.835,0,0,0-1.169-.167l-2.625,1.97a.835.835,0,0,1-1.331-.786l.464-3.249a.835.835,0,0,0-.708-.945h0l-4.958-.708a.835.835,0,0,0-.946.708h0l-.464,3.249a.835.835,0,0,1-1.5.383L30.572,3.78A.835.835,0,0,0,29.4,3.613L26.893,5.5a16.162,16.162,0,0,0-3.416,0A15.871,15.871,0,0,0,9.482,19.728c-.023.236-.031.471-.043.706H9.189a.835.835,0,0,0-.817.668L7.8,23.847,5.483,22.252a.835.835,0,0,0-1.065.1L1.912,24.855a.835.835,0,0,0-.1,1.064L3.4,28.227.657,28.8A.835.835,0,0,0,0,29.622v3.341a.835.835,0,0,0,.663.818l2.746.577L1.822,36.666a.835.835,0,0,0,.1,1.064l2.506,2.506a.835.835,0,0,0,1.065.1L7.8,38.742l.577,2.746a.835.835,0,0,0,.817.668h3.341a.835.835,0,0,0,.818-.663l.577-2.746,2.308,1.587a.835.835,0,0,0,1.064-.1l1.3-1.3v2.381a3.33,3.33,0,0,0,1.671,2.877v4.641a3.341,3.341,0,0,0,3.341,3.341H26.95a3.341,3.341,0,0,0,3.341-3.341V44.193a3.33,3.33,0,0,0,1.671-2.877V38.01a4.093,4.093,0,0,1,1.932-3.41,16.03,16.03,0,0,0,1.966-1.5l-1.114-1.245a14.22,14.22,0,0,1-1.76,1.346,5.754,5.754,0,0,0-2.695,4.812v3.306a1.671,1.671,0,0,1-1.671,1.671H21.938a1.671,1.671,0,0,1-1.671-1.671V37.941a5.62,5.62,0,0,0-2.65-4.714A14.158,14.158,0,0,1,25.1,7.081a.909.909,0,0,0-.033.091.835.835,0,0,0,.16.619L27.2,10.417a.818.818,0,0,1,.05.927.83.83,0,0,1-.835.4l-3.249-.464a.835.835,0,0,0-.945.708h0l-.709,4.961a.835.835,0,0,0,.708.945h0l3.249.464a.835.835,0,0,1,.383,1.5l-2.625,1.969a.835.835,0,0,0-.167,1.169L26.063,27a.835.835,0,0,0,1.169.167L29.859,25.2a.835.835,0,0,1,1.327.786l-.464,3.249a.835.835,0,0,0,.708.946h0l4.962.709a.926.926,0,0,0,.118.008.835.835,0,0,0,.828-.717l.464-3.249a.835.835,0,0,1,1.5-.383l1.97,2.625a.835.835,0,0,0,1.169.167l4.009-3.007a.835.835,0,0,0,.167-1.169l-1.969-2.625a.821.821,0,0,1-.05-.927.811.811,0,0,1,.835-.4l3.249.464a.835.835,0,0,0,.946-.708h0l.708-4.962A.835.835,0,0,0,49.624,15.061Zm-27.686,29.6h6.682v1.671H21.938Zm0,3.341h6.682v.835A1.671,1.671,0,0,1,26.95,50.5H23.609a1.671,1.671,0,0,1-1.671-1.671Zm-6.65-14.4a15.787,15.787,0,0,0,1.428,1.04A4.077,4.077,0,0,1,18.4,36.771L16.608,38.56l-1.735-1.2A1.671,1.671,0,0,0,12.29,38.4l-.438,2.086H9.867L9.429,38.4a1.671,1.671,0,0,0-2.583-1.032L5.11,38.56,3.588,37.041l1.2-1.734a1.671,1.671,0,0,0-1.031-2.584l-2.082-.439V30.3l2.082-.439a1.671,1.671,0,0,0,1.032-2.579l-1.2-1.739L5.11,24.026l1.737,1.2a1.671,1.671,0,0,0,2.582-1.032l.146-.695a15.907,15.907,0,0,0,.662,2.833,5.012,5.012,0,1,0,5.051,7.267Zm-1.3-1.177a3.336,3.336,0,1,1-3.133-4.466h.032A15.82,15.82,0,0,0,13.991,32.417ZM48.084,19.9l-2.422-.346A2.506,2.506,0,0,0,43.3,23.541L44.77,25.5l-2.673,2-1.468-1.956A2.506,2.506,0,0,0,36.143,26.7L35.8,29.121,32.5,28.648l.346-2.422a2.506,2.506,0,0,0-3.984-2.36L26.9,25.334l-2-2.673,1.956-1.468A2.506,2.506,0,0,0,25.7,16.707l-2.422-.346.473-3.307,2.422.346a2.506,2.506,0,0,0,2.36-3.984L27.065,7.456l2.673-2,1.468,1.957A2.506,2.506,0,0,0,35.692,6.26l.346-2.422,3.307.472L39,6.732a2.506,2.506,0,0,0,3.984,2.359L44.94,7.623l2,2.673-1.957,1.468a2.506,2.506,0,0,0,1.149,4.486l2.422.346Z" transform="translate(0 -2.057)" fill="#01a4b7"/>
+      </g>
+    </g>
+    <g id="Gruppe_495" data-name="Gruppe 495" transform="translate(29.236 8.013)">
+      <g id="Gruppe_494" data-name="Gruppe 494">
+        <path id="Pfad_134" data-name="Pfad 134" d="M286.682,76.171a6.682,6.682,0,1,0,6.682,6.682A6.682,6.682,0,0,0,286.682,76.171Zm0,11.694a5.012,5.012,0,1,1,5.012-5.012A5.012,5.012,0,0,1,286.682,87.865Z" transform="translate(-280 -76.171)" fill="#01a4b7"/>
+      </g>
+    </g>
+    <g id="Gruppe_497" data-name="Gruppe 497" transform="translate(24.444 37.028)">
+      <g id="Gruppe_496" data-name="Gruppe 496">
+        <rect id="Rechteck_1030" data-name="Rechteck 1030" width="1.671" height="2.506" fill="#01a4b7"/>
+      </g>
+    </g>
+    <g id="Gruppe_499" data-name="Gruppe 499" transform="translate(13.578 9.592)">
+      <g id="Gruppe_498" data-name="Gruppe 498">
+        <path id="Pfad_135" data-name="Pfad 135" d="M138.092,110.524A10.024,10.024,0,0,1,136.4,92.7l-.893-1.413a11.694,11.694,0,0,0,1.979,20.787,5.333,5.333,0,0,1,3.425,4.978h1.671A6.989,6.989,0,0,0,138.092,110.524Z" transform="translate(-130.044 -91.291)" fill="#01a4b7"/>
+      </g>
+    </g>
+    <g id="Gruppe_501" data-name="Gruppe 501" transform="translate(41.151 31.181)">
+      <g id="Gruppe_500" data-name="Gruppe 500">
+        <rect id="Rechteck_1031" data-name="Rechteck 1031" width="5.847" height="1.671" fill="#01a4b7"/>
+      </g>
+    </g>
+    <g id="Gruppe_503" data-name="Gruppe 503" transform="translate(39.781 35.551)">
+      <g id="Gruppe_502" data-name="Gruppe 502" transform="translate(0 0)">
+        <rect id="Rechteck_1032" data-name="Rechteck 1032" width="1.671" height="6.524" transform="matrix(0.64, -0.768, 0.768, 0.64, 0, 1.284)" fill="#01a4b7"/>
+      </g>
+    </g>
+    <g id="Gruppe_505" data-name="Gruppe 505" transform="translate(36.139 37.864)">
+      <g id="Gruppe_504" data-name="Gruppe 504">
+        <rect id="Rechteck_1033" data-name="Rechteck 1033" width="1.671" height="5.847" fill="#01a4b7"/>
+      </g>
+    </g>
+    <g id="Gruppe_507" data-name="Gruppe 507" transform="translate(0.853 12.829)">
+      <g id="Gruppe_506" data-name="Gruppe 506" transform="translate(0 0)">
+        <rect id="Rechteck_1034" data-name="Rechteck 1034" width="6.888" height="1.67" transform="translate(0 1.67) rotate(-14.035)" fill="#01a4b7"/>
+      </g>
+    </g>
+    <g id="Gruppe_509" data-name="Gruppe 509" transform="translate(2.241 4.608)">
+      <g id="Gruppe_508" data-name="Gruppe 508" transform="translate(0 0)">
+        <rect id="Rechteck_1035" data-name="Rechteck 1035" width="1.67" height="7.185" transform="matrix(0.581, -0.814, 0.814, 0.581, 0, 1.359)" fill="#01a4b7"/>
+      </g>
+    </g>
+    <g id="Gruppe_511" data-name="Gruppe 511" transform="translate(9.397 0.067)">
+      <g id="Gruppe_510" data-name="Gruppe 510" transform="translate(0 0)">
+        <rect id="Rechteck_1036" data-name="Rechteck 1036" width="1.671" height="6.897" transform="matrix(0.969, -0.248, 0.248, 0.969, 0, 0.414)" fill="#01a4b7"/>
+      </g>
+    </g>
+  </g>
+</svg>
