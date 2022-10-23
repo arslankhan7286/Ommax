@@ -8,6 +8,7 @@ import {
   useMediaQuery,
 } from "@material-ui/core";
 import DrawerComponent from "./Drawer";
+import { Link } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
   navlinks: {
@@ -45,9 +46,9 @@ function Navbar(props) {
                       Quick Facts
                     </button>
                     <ul className="dropdown-menu">
-                      <li><a className="dropdown-item" href="#">Action</a></li>
-                      <li><a className="dropdown-item" href="#">Another action</a></li>
-                      <li><a className="dropdown-item" href="#">Something else here</a></li>
+                      <li><a className="dropdown-item" href="/quickfacts">Action</a></li>
+                      <li><a className="dropdown-item" href="/quickfacts">Another action</a></li>
+                      <li><a className="dropdown-item" href="/quickfacts">Something else here</a></li>
                     </ul>
                   </div>
                   <div className="dropdown">
@@ -55,15 +56,15 @@ function Navbar(props) {
                       Benefits
                     </button>
                     <ul className="dropdown-menu">
-                      <li><a className="dropdown-item" href="#">Action</a></li>
-                      <li><a className="dropdown-item" href="#">Another action</a></li>
-                      <li><a className="dropdown-item" href="#">Something else here</a></li>
+                      <li><a className="dropdown-item" href="/benefits">Action</a></li>
+                      <li><a className="dropdown-item" href="/benefits">Another action</a></li>
+                      <li><a className="dropdown-item" href="benefits">Something else here</a></li>
                     </ul>
                   </div>
                   <div className="dropdown">
-                    <button className="btn" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    <a className="dropdown-item" href="#">Contact</a>
-                    </button>
+                    {/* <button className="btn" type="button" data-bs-toggle="dropdown" aria-expanded="false"> */}
+                      <Link className="dropdown-item" to="/contact">Contact</Link>
+                    {/* </button> */}
                   </div>
                 </div>
                 )}

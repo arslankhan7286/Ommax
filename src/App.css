@@ -656,6 +656,7 @@ a{
   padding: 30px 80px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 .footer .footer-list{
   width: 450px;
@@ -808,6 +809,9 @@ a{
   }
   .custom-banner .banner-content .banner-text{
     width: auto;
+  }
+  .MuiListItemText-root .MuiTypography-root .dropdown a{
+    padding-left: 1em;
   }
 }
 @media(max-width: 768px){

@@ -1,19 +1,23 @@
 import './App.css';
 import Footer from './components/Footer';
-// import Wrapper from './components/Content/Dashboard'
-// import { Routes, Route, } from "react-router-dom";
+import { Routes, Route, } from "react-router-dom";
 import Navbar from './components/Navbar';
 import Wrapper from './components/Wrapper';
+import QuickFacts from './pages/QuickFacts';
+import Benefits from './pages/Benefits';
+import Contact from './pages/Contact';
 
 function App() {
   return (
       <div className="App">
         <Navbar />
-        <Wrapper />
-        <Footer />
-        {/* <Routes>
+        <Routes>
           <Route path="/" element={<Wrapper />} />
-        </Routes> */}
+          <Route path="/quickfacts" element={<QuickFacts />} />
+          <Route path="/benefits" element={<Benefits />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
+        <Footer />
       </div>
   );
 }

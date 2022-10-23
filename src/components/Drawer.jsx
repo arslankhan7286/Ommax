@@ -7,6 +7,7 @@ import {
   ListItemText,
 } from "@material-ui/core";
 import MenuIcon from "@material-ui/icons/Menu";
+import { Link } from "react-router-dom";
 
 function DrawerComponent() {
   const [openDrawer, setOpenDrawer] = useState(false);
@@ -49,9 +50,9 @@ function DrawerComponent() {
           <ListItem onClick={() => setOpenDrawer(false)}>
             <ListItemText>
               <div className="dropdown">
-                <button className="btn" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <a className="dropdown-item" href="#">Contact</a>
-                </button>
+                {/* <button className="btn" type="button" data-bs-toggle="dropdown" aria-expanded="false"> */}
+                <Link className="dropdown-item" to="/contact">Contact</Link>
+                {/* </button> */}
               </div>
             </ListItemText>
           </ListItem>
